@@ -5,7 +5,7 @@
   "type": "module",
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Simple starter project for functional typescript cli apps or libraries with NodeJS",
   "scripts": {
     "lint": "eslint ./src --fix --ext .ts",
     "build": "tsc"
